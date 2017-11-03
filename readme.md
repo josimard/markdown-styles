@@ -7,8 +7,8 @@ Looking for something to generate a blog from Markdown files? Check out [ghost-r
 Looking to automatically render your Markdown site on `git push`? Check out [markdown-styles-lambda](https://github.com/mixu/markdown-styles-lambda)
 
 
-## This Fork Features
-- **Single flat file input/output:**
+## This Fork Feature
+- **Flat file input/output:**
   Generate a single HTML file with embedded CSS (no font support)
    
 	``` bash
